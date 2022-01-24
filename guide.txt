@@ -1,0 +1,10 @@
+Projeto Canil:
+
+1- Criei um repositorio no github: https://github.com/brenosantin96/nodets-canil
+2- Abri o CMD, fui até a pasta de projetos e dei um git clone https://github.com/brenosantin96/nodets-canil;
+3- Foi criado uma pasta com meu readme, .gitignore.
+4- Abri o Vscode e dei um npm -y init para iniciar o projeto node;
+5- Adicionei como dependencias o npm install express, npm install mustache-express e npm install dotenv;
+6- Adicionei como dependencia de desenvolvimento o npm --save-dev @types/express @types/mustache-express e @types/node;
+7- Para esse projeto em especifico, foi instalado em modo global o npm install -g nodemon typescript ts-node;
+8- Me deparei com problema com o .env (tratar esse erro antes de terminar o projeto 100%)
